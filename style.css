@@ -1,0 +1,22 @@
+main {
+  display: flex;
+  justify-content: center;
+  flex-flow: column wrap;
+}
+
+.header , .footer {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+}
+
+.colors {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.ball {
+  padding: 40px;
+  border-radius: 100%;
+}
