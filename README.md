@@ -6,19 +6,11 @@ Este projeto foi feito durante o bloco de Fundamentos na [Trybe](https://www.bet
 # Habilidades
 Neste projeto, verificamos que você é capaz de:
 
-  * Utilizar JSX no React
+  * Manipular o DOM.
 
-  * Utilizar corretamente o método `render()` para renderizar seus componentes
+  * Manipular o Javascript.
 
-  * Utilizar `import` para trazer componentes em diferentes arquivos
-
-  * Criar componentes de classe em React
-
-  * Criar múltiplos componentes a partir de um array
-
-  * Fazer uso de `props` corretamente
-
-  * Fazer uso de `PropTypes` para validar as `props de um componente`
+  * Manipular o CSS.
 
 ---
 
