@@ -1,4 +1,4 @@
-# Projeto Color Guess
+# Projeto Color Guess [View/Ver](https://j-pster.github.io/color-guess/)
 Este projeto foi feito durante o bloco de Fundamentos na [Trybe](https://www.betrybe.com/) por _[João Pedro Viana Freitas](https://www.linkedin.com/in/joaopster/)_ :rocket:
 
 ### Descrição
